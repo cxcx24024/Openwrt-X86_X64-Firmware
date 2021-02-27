@@ -1,9 +1,5 @@
 # 云编译 Actions-OpenWrt
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/jerrell851/Actions-OpenWrt/blob/master/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/jerrell851/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/jerrell851/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
-
 
 ## Usage
 
